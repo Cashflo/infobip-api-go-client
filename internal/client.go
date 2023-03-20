@@ -10,7 +10,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/infobip/infobip-api-go-client/pkg"
+	"github.com/cashflo/infobip-api-go-client/pkg"
 )
 
 type Querier interface {

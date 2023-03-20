@@ -7,7 +7,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	infobip "github.com/infobip/infobip-api-go-client/pkg"
+	infobip "github.com/cashflo/infobip-api-go-client/pkg"
 )
 
 var (

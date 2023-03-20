@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/infobip/infobip-api-go-client/pkg"
-	"github.com/infobip/infobip-api-go-client/pkg/sms"
+	"github.com/cashflo/infobip-api-go-client/pkg"
+	"github.com/cashflo/infobip-api-go-client/pkg/sms"
 )
 
 func main() {
