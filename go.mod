@@ -1,3 +1,3 @@
-module "infobip-api-go-client"
+module "module github.com/cashflo/infobip-api-go-client"
 
-go 1.11
+go 1.20
